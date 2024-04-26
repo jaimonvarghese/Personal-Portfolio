@@ -69,7 +69,9 @@ section{
 }
 
 .home-img img{
-	width:35vw ;
+	width:50vw ;
+	margin-left: 3.5rem;
+	margin-right: -15rem;
 }
 
 .home-content h3{
@@ -137,7 +139,7 @@ span{
 }
 
 .about-img img{
-	width: 35vw;
+	width: 50vw;
 }
 .heading{
 	text-align: center;
